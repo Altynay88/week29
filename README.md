@@ -1,3 +1,9 @@
+Задание
+
+Повторите пример с комментариями из ДЗ Недели 17 на React. Сделайте, чтобы при добавлении нового комментария он добавлялся сверху в списке и подсвечивался другим цветом. 
+
+![Снимок экрана (190)](https://user-images.githubusercontent.com/79243168/150604752-ccaf7006-113f-4685-af3e-caf1f5204f18.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
